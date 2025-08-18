@@ -54,7 +54,8 @@ public class Input1 {
 
         // input storing variable
 
-        String a=in.nextLine();
+        String a=in.nextLine()
+        ();
 
         // printing the output
 
