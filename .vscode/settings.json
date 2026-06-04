@@ -1,0 +1,5 @@
+{
+    "chat.agent.codeBlockProgress": false,
+    "chat.agent.thinking.collapsedTools": "off",
+    "chat.agent.enabled": false
+}
